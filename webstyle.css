@@ -1,0 +1,167 @@
+h1 {
+	font-size:6.5vw;
+	font-family:courier;
+	margin-left: 10px;
+	color: RGB(71, 68, 68);
+	margin-right:100px;
+	text-decoration: none;
+	margin-bottom: 1px;
+}
+
+h1 a{
+	text-decoration: none;
+	text-align: center;
+	color: RGB(71, 68, 68);
+}
+
+h2 {
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size:4vw;
+	font-family: baskerville;
+	margin-bottom: 1px;
+}
+.headerCombo {
+        display: flex;
+        align-items: center;
+        justify-content: center
+}
+.aCombo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-right:90px;
+}
+
+.aCombo a{
+	width:950px;
+}
+
+j img{
+	display: block;
+    height: auto;
+    width: 400px;
+    margin-left:40px;
+}
+
+h10{
+	color: RGB(71, 68, 68);
+	font-weight: 600;
+	font-size: 19vw;
+	font-family:american typewriter;
+	text-align:center;
+	margin-right:100px;
+	margin-left: 100px;
+	margin-top: 200px;
+
+}
+
+h9{
+	color: RGB(71, 68, 68);
+	font-size: 2.5vw;
+	font-family:courier;
+	font-weight:400;
+	margin-bottom:300px;
+}
+
+b img{
+
+	float:right;
+    width:450px;
+    margin-right:50px;
+
+}
+m img{
+	display: block;
+    height: auto;
+    width: 200px;
+    margin-left:60px;
+}
+
+.animage{
+  margin: 10px;
+}
+
+ body {
+     background-color: RGB(166, 208, 224);
+}
+
+h3{
+	font-size:1.7vw;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 1px;
+}
+
+h7{
+	font-size:2.3vw;
+	margin-left: 110px;
+	margin-right: 100px;
+	margin-bottom: 1px;
+}
+
+h4{
+	font-size:1.8vw;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-bottom: 1PX;
+	font-family:arial;
+	font-weight:300;
+}
+
+h5{
+	background-color: RGB(196, 196, 194);
+	font-colour:black;
+	text-align:center;
+	font-size: 2.5vw;
+}
+h5 a{
+	text-align:center;
+	font-size:2.4vw;
+	text-decoration: none;
+}
+p img {
+    display: block;
+    height: 220px;
+    width: 100%;
+}
+
+h5 a img{
+height:30px;
+}
+
+ul{
+	font-size:2vw;
+	margin-left: 90px;
+		margin-right: 90px;
+}
+
+f{
+	display:block;
+	width:300px;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
+.navbar{
+	background-color: RGB(71, 68, 68);
+	font-size:3vw;
+	color: white;
+	width:100%;
+	text-align: center;
+	padding-top: 20px;
+   	padding-bottom: 20px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar a{
+	text-decoration: none;
+   	text-align: center;
+   	padding-left: 70px;
+   	padding-right: 70px;
+   	color: white;
+}
+
+.navbar a:hover{
+   background-color: #c4a747;
+}   	
